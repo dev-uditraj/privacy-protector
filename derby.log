@@ -1,0 +1,18 @@
+Thu Nov 15 11:43:09 IST 2018 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Nov 15 11:43:10 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0167-1600-7bff-00000684c4c8 
+on database directory C:\Users\Udit\eclipse-workspace\PrivacyProtector\privacydb with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/C:/Users/Udit/eclipse-workspace/PrivacyProtector/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Users\Udit\eclipse-workspace\PrivacyProtector
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Nov 15 11:45:27 IST 2018:
+Shutting down instance a816c00e-0167-1600-7bff-00000684c4c8 on database directory C:\Users\Udit\eclipse-workspace\PrivacyProtector\privacydb with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Thu Nov 15 11:45:27 IST 2018 Thread[DRDAConnThread_3,5,derby.daemons] (DATABASE = privacydb), (DRDAID = {2}), Database 'privacydb' shutdown.
